@@ -1,0 +1,4 @@
+#Tue Jun 18 19:18:25 ICT 2024
+base.0=C\:\\Users\\ACER\\Documents\\ANM_11\\BanChim_Dev\\Game_BanChim\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

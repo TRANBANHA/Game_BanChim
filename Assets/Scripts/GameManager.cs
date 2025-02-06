@@ -66,7 +66,7 @@ public class GameManager : Singleton<GameManager>
                 {
                     GameGUIManager.Ins.gameDialog.UpdateDialog("YOUR BEST", "BEST KILLED: x" + Prefs.bestScore);
                 }
-                Debug.Log(Prefs.bestScore);
+                //Debug.Log(Prefs.bestScore);
                 Prefs.bestScore = m_birdKill;
                 //  GameGUIManager.Ins.gameDialog.UpdateDialog("YOUR BEST", "BEST KILLED: x" + m_birdKill);
                 GameGUIManager.Ins.gameDialog.Show(true);
